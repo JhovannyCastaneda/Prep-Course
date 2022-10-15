@@ -1,0 +1,5 @@
+VARIABLES: Se utilizan para guardar valores en de la memoria de la PC, los cuales pueden ser utilizados posteriormente durante la ejecusion de un programa.
+STRINGS: Son variables que almacenan cadenas de caracteres.
+FUNCIONES (ARGUMENTOS, RETURN): Son bloques de codigo que ejecutan alguna operacion, las funciones pueden ser llamadas desde cualquier parte del codigo, pueden recibir variables como parametros y tambien pueden retornar algun valor.
+DECLARACIONES IF: Son sentencias de control las cuales pueden ejecutar bloques de codigo si sus condiciones de comparacion se cumplen.
+VALORES BOOLEANOS (TRUE, FALSE): Estos valores son estaticos y estan predefinidos en JS, no pueden cambiar su valor y pueden ser utilizados para declarar variables o en sentencias de comparacion.
